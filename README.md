@@ -16,6 +16,7 @@
 **Connect with Me:**
 
 - [LinkedIn](https://www.linkedin.com/in/heshan-lahiru-20175b299)
+- [X](https://x.com/HLahiru26124)
 
 ---
 
