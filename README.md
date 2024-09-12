@@ -1,5 +1,12 @@
+<h1 align="center">
+ ・┆✦ʚ♡ɞ✦ ┆・
+</h1>
 
-<h1 align="center">Hi 👋, I'm Lahiru heshan</h1>
+
+<h1 align="center" style="color:#4CAF50; font-family: 'Arial', sans-serif;">
+  Hi 👋, I'm <span style="color:#FFD700;">Lahiru Heshan</span>
+</h1>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6537d65b-5136-4299-b3d0-b66e0d2b56cf" alt="hydra-we-bhack" />
 </p>
