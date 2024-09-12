@@ -34,12 +34,12 @@
 </center>
 
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
     </td>
   </tr>
