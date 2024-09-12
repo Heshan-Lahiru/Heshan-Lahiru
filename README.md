@@ -1,3 +1,5 @@
+![hydra-we-bhack](https://github.com/user-attachments/assets/6537d65b-5136-4299-b3d0-b66e0d2b56cf)
+
 <h1 align="center">Hi 👋, I'm Lahiru heshan</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6537d65b-5136-4299-b3d0-b66e0d2b56cf" alt="hydra-we-bhack" />
