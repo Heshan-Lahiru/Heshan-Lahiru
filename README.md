@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lahiru heshan</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6537d65b-5136-4299-b3d0-b66e0d2b56cf" alt="hydra-we-bhack" />
+</p>
 
-![hydra-we-bhack](https://github.com/user-attachments/assets/6537d65b-5136-4299-b3d0-b66e0d2b56cf)
+
 
 <h3 align="center">Pursuing a diploma in Software Engineering at IUHS Campus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan-lahiru&label=Profile%20views&color=0e75b6&style=flat" alt="heshan-lahiru" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heshan-lahiru&label=Profile%20views&color=0e75b6&style=flat" alt="heshan-lahiru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshan-lahiru" alt="heshan-lahiru" /></a> </p>
 
@@ -22,8 +25,8 @@
 
 - ⚡ Fun fact **call me as Heshan**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/@hlahiru26124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hlahiru26124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lahiru-heshan-20175b299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru-heshan-20175b299" height="30" width="40" /></a>
 <a href="https://fb.com/100078738229914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100078738229914" height="30" width="40" /></a>
