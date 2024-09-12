@@ -13,17 +13,6 @@
 
 <p align="center"> <a href="https://twitter.com/@hlahiru26124" target="blank"><img src="https://img.shields.io/twitter/follow/@hlahiru26124?logo=twitter&style=for-the-badge" alt="@hlahiru26124" /></a> </p>
 
-- 🌱 I’m currently learning **Golang,Java**
-
-- 🧑‍🎓 I’m an graduate at **IUHS**
-
-- 👨‍💻 All of my projects are available at [https://unrivaled-cranachan-a659ee.netlify.app/](https://unrivaled-cranachan-a659ee.netlify.app/)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **lahiruheshan454@gmail.com**
-
-- ⚡ Fun fact **call me as Heshan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +40,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-lahiru&" alt="heshan-lahiru" />
 </p>
+- 🌱 I’m currently learning **Golang,Java**
+
+- 🧑‍🎓 I’m an graduate at **IUHS**
+
+- 👨‍💻 All of my projects are available at [https://unrivaled-cranachan-a659ee.netlify.app/](https://unrivaled-cranachan-a659ee.netlify.app/)
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **lahiruheshan454@gmail.com**
+
+- ⚡ Fun fact **call me as Heshan**
 
 <h3 align="center">Support:</h3>
  <p align="center">
