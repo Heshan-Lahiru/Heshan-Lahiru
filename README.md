@@ -1,4 +1,3 @@
-![hydra-we-bhack](https://github.com/user-attachments/assets/6537d65b-5136-4299-b3d0-b66e0d2b56cf)
 
 <h1 align="center">Hi 👋, I'm Lahiru heshan</h1>
 <p align="center">
@@ -24,17 +23,20 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto;" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-lahiru&" alt="heshan-lahiru" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-lahiru&theme=dark" alt="heshan-lahiru" />
 </p>
+
+
+
 - 🌱 I’m currently learning **Golang,Java**
 
 - 🧑‍🎓 I’m an graduate at **IUHS**
