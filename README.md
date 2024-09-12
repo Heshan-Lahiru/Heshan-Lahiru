@@ -23,10 +23,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 500px; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 500px; height: 300px;" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 500px; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 500px; height: 300px;" />
     </td>
   </tr>
 </table>
