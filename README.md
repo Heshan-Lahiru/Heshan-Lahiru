@@ -34,15 +34,22 @@
 </center>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact" alt="heshan-lahiru" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en" alt="heshan-lahiru" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heshan-lahiru&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=heshan-lahiru&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-lahiru&" alt="heshan-lahiru" />
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
  <p align="center">
   <a href="https://www.buymeacoffee.com/buymeacoffee.com/lahiruheshan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/lahiruheshan" />
