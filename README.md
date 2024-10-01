@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">Pursuing a diploma in Software Engineering at IUHS Campus</h3>
+<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshan-lahiru&label=Profile%20views&color=0e75b6&style=flat" alt="heshan-lahiru" /> </p>
 
